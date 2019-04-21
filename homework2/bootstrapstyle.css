@@ -1,12 +1,18 @@
+body {
+    background-image:url("https://wallpaperaccess.com/full/320467.jpg");
+    color:;
+}
 
 
 
-
-
+#bar {
+    background-image:url("https://wallpaperaccess.com/full/320467.jpg")
+}
 
 
 .nav-item {
     text-align: left;
+    color:tan;
     
 
 }
@@ -20,6 +26,7 @@
 
 .pictitle {
     text-align: center;
+    background-color: tan;
 }
 
 #mustang1 {
